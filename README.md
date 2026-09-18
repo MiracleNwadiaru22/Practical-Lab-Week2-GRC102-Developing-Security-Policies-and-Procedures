@@ -1,7 +1,7 @@
 # Practical-Lab-Week2-GRC102-Developing-Security-Policies-and-Procedures
 # GRC 102 – Security Policies & Procedures
 
-##  Project Overview
+##  About
 
 This project was completed as part of my "GRC 102 Practical Laboratory" and focused on developing a practical information security policy framework for a growing technology company, "NexusTech Solutions".
 
